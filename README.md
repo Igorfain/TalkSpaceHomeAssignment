@@ -1,4 +1,4 @@
-# Cucumber Test Automation Project
+# Cucumber Test Automation Project -Fainshtein Igor
 
 A test automation project using the following technologies:
 
