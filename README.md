@@ -8,5 +8,3 @@ A test automation project using the following technologies:
 - **Selenium**: Version 4.27.0 for browser automation
 - **WebDriver Manager**: Version 5.9.2 for WebDriver management
 - **Maven**: Version 3.13.0 for project build and dependency management
-
-The project implements the Page Object Model (POM) design pattern and reads configurations, such as credentials and URLs, from a `MainConfig.json` file.
